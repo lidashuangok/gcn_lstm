@@ -1,1 +1,4 @@
-# gcn_lstm
+CORA
+GCN + LSTM + randwalk
+local + global 
+pytorch
