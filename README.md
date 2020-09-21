@@ -1,4 +1,6 @@
 CORA
-GCN + LSTM + randwalk
+GCN + LSTM + randwalk 
 local + global 
-pytorch
+
+
+作废
